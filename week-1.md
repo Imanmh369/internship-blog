@@ -40,6 +40,12 @@ Prior Knowledge vs Emotional Outcomes
 Using scipy.stats.chi2_contingency to test relationships between categorical variables where the test shows that there is no significant association. This suggest that prior knowledge did not influence whether visitor felt inspired by the museum.
 <img width="813" height="239" alt="image" src="https://github.com/user-attachments/assets/a5be56e9-cc05-4cdf-9703-688ec371fe4f" />
 
+## Extracting Keywords Using BERTopic
+
+- Here BERTopic was able to find three main theme in Favourite multimedia content.
+<img width="1057" height="602" alt="image" src="https://github.com/user-attachments/assets/f442b6ec-d267-4a00-bb50-3334e5d28f5f" />
+
+
 ## Suggestion for Multimedia Survey
 - Make key variables (e.g., age range, nationality, prior museum knowledge, time spent) mandatory to reduce missing values and ensure complete datasets.
 - Add one or two open‑ended questions to capture qualitative insights while keeping the survey concise.
