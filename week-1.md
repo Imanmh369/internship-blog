@@ -26,17 +26,25 @@ This week taught me that internships aren’t just about applying skills; they�
 
 ## Data Analysis
 Most preferred vs Least preferred Multimedia Content
-•	Compared which multimedia types visitors mentioned most positively vs least positively in open ended responses.
-•	Used difference bar charts to highlight gains/losses in preference
+
+-Comparing which multimedia types visitors mentioned most positively vs least positively in open ended responses.Using difference bar charts to highlight gains/losses in preference.
+
 <img width="702" height="423" alt="image" src="https://github.com/user-attachments/assets/6112200f-7123-4f19-adbd-0f497a165e0b" />
 
 Prior Knowledge vs Emotional Outcomes
-•	Compared emotional responses (felt inspired, enjoyed visit, learned about culture) between knowledge groups.
-•	Used grouped bar charts to visualize percentages of “strongly agree.”
+
+-	Comparing emotional responses (felt inspired, enjoyed visit, learned about culture) between knowledge groups.	Used grouped bar charts to visualize percentages of “strongly agree.”
+  
 <img width="717" height="426" alt="image" src="https://github.com/user-attachments/assets/e617be0a-e2f5-4766-b49b-9b7b0d523314" />
 
 Using scipy.stats.chi2_contingency to test relationships between categorical variables where the test shows that there is no significant association. This suggest that prior knowledge did not influence whether visitor felt inspired by the museum.
 <img width="813" height="239" alt="image" src="https://github.com/user-attachments/assets/a5be56e9-cc05-4cdf-9703-688ec371fe4f" />
+
+## Suggestion for Multimedia Survey
+- Make key variables (e.g., age range, nationality, prior museum knowledge, time spent) mandatory to reduce missing values and ensure complete datasets.
+- Add one or two open‑ended questions to capture qualitative insights while keeping the survey concise.
+- Collect demographic information early (age range, nationality, prior knowledge) to enable stronger segmentation and cross‑analysis.
+
 
 
 
