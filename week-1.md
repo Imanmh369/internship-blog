@@ -23,3 +23,25 @@ I tackled one of the harder tasks: analyzing open‑ended questions about multim
 Looking back, my first week was packed with learning. From signing contracts and meeting my team to exploring the museum, cleaning complex datasets, and experimenting with advanced NLP tools, every day brought something new. I realized that multimedia content is not just entertainment — it’s a powerful way to engage visitors, especially those with little prior knowledge.  
 
 This week taught me that internships aren’t just about applying skills; they’re about growing, adapting, and discovering how theory meets practice. And if the first week was this full of insights, I can’t wait to see what the rest of the internship holds.
+
+## Data Analysis
+Most preferred vs Least preferred Multimedia Content
+•	Compared which multimedia types visitors mentioned most positively vs least positively in open ended responses.
+•	Used difference bar charts to highlight gains/losses in preference
+<img width="702" height="423" alt="image" src="https://github.com/user-attachments/assets/6112200f-7123-4f19-adbd-0f497a165e0b" />
+
+Prior Knowledge vs Emotional Outcomes
+•	Compared emotional responses (felt inspired, enjoyed visit, learned about culture) between knowledge groups.
+•	Used grouped bar charts to visualize percentages of “strongly agree.”
+<img width="717" height="426" alt="image" src="https://github.com/user-attachments/assets/e617be0a-e2f5-4766-b49b-9b7b0d523314" />
+
+Using scipy.stats.chi2_contingency to test relationships between categorical variables where the test shows that there is no significant association. This suggest that prior knowledge did not influence whether visitor felt inspired by the museum.
+<img width="813" height="239" alt="image" src="https://github.com/user-attachments/assets/a5be56e9-cc05-4cdf-9703-688ec371fe4f" />
+
+
+
+
+
+
+
+
