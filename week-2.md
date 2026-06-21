@@ -17,12 +17,12 @@ By **Tuesday**, I was deep into the project. I started by exploring the website 
 
 On **Wednesday**, I integrated those images into both the welcome and audio pages, where visitors can listen to the guide. I also began working on the audio itself. Using **ElevenLabs**, I converted the tour text into speech, creating both Arabic and English versions. Getting the audio to play correctly took some troubleshooting — mainly CSS adjustments — but after some persistence, everything worked smoothly. Seeing the audio play seamlessly in both languages was incredibly satisfying.
 
-<img width="1882" height="872" alt="image" src="https://github.com/user-attachments/assets/c94b30c6-15f1-47f8-a9db-8ab4cc8934bd" />
-
 
 **Thursday** was all about refinement. I continued improving the design of the audio section to make it more visually appealing and user‑friendly. I personalized the headings to make the interface feel more welcoming and worked on fixing the progress bar, which wasn’t functioning as expected. I also revisited the **Next** and **Prev** buttons to improve their alignment and responsiveness. By the end of the day, the audio player looked cleaner, more interactive, and closer to the professional standard I was aiming for.
 
----
+
+<img width="1797" height="867" alt="image" src="https://github.com/user-attachments/assets/a5dd6a1a-b364-42a4-9724-3eb7bb7fd8ca" />
+
 
 ## Reflections
 
