@@ -27,3 +27,15 @@ On **Wednesday**, I integrated those images into both the welcome and audio page
 ## Reflections
 
 This week taught me how design and functionality go hand in hand. From improving data visuals to customizing an interactive audio guide, I learned that attention to detail — whether in CSS styling or user experience — makes a huge difference. Each challenge, from debugging to design tweaks, helped me grow more confident in combining technical and creative skills.
+
+
+<style>
+  img {
+  max-width: 100%;   
+  height: auto;      
+  display: block;    
+  margin: 1em auto;  
+}
+
+</style>
+
