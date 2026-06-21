@@ -9,10 +9,16 @@ On **Monday**, I implemented the feedback from my supervisor. I refined the x‑
 
 By **Tuesday**, I was deep into the project. I started by exploring the website layout and decided to refresh its look. I changed the color palette to a sleek black‑and‑white theme for a more modern feel. Then I focused on the icons on the welcome page — I wanted them to reflect the museum’s identity. I collected some images from the museum’s collection to use as visual cues for the tour guide.
 
-<img width="1676" height="591" alt="image" src="https://github.com/user-attachments/assets/7e1ae76f-27c7-4cc0-97b4-f64dfee04a42" />
+<img width="1307" height="267" alt="image" src="https://github.com/user-attachments/assets/9fbceb00-45c4-4be5-b39e-6c7aeb06609b" />
+
+
+<img width="1786" height="607" alt="image" src="https://github.com/user-attachments/assets/7ab2c03a-e93e-4b06-8cc3-5f2676450695" />
 
 
 On **Wednesday**, I integrated those images into both the welcome and audio pages, where visitors can listen to the guide. I also began working on the audio itself. Using **ElevenLabs**, I converted the tour text into speech, creating both Arabic and English versions. Getting the audio to play correctly took some troubleshooting — mainly CSS adjustments — but after some persistence, everything worked smoothly. Seeing the audio play seamlessly in both languages was incredibly satisfying.
+
+<img width="1882" height="872" alt="image" src="https://github.com/user-attachments/assets/c94b30c6-15f1-47f8-a9db-8ab4cc8934bd" />
+
 
 **Thursday** was all about refinement. I continued improving the design of the audio section to make it more visually appealing and user‑friendly. I personalized the headings to make the interface feel more welcoming and worked on fixing the progress bar, which wasn’t functioning as expected. I also revisited the **Next** and **Prev** buttons to improve their alignment and responsiveness. By the end of the day, the audio player looked cleaner, more interactive, and closer to the professional standard I was aiming for.
 
