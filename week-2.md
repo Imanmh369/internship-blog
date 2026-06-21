@@ -28,7 +28,7 @@ On **Wednesday**, I integrated those images into both the welcome and audio page
 
 This week taught me how design and functionality go hand in hand. From improving data visuals to customizing an interactive audio guide, I learned that attention to detail — whether in CSS styling or user experience — makes a huge difference. Each challenge, from debugging to design tweaks, helped me grow more confident in combining technical and creative skills.
 
-https://imanmh369.github.io/ImanHussain-qm-audioguide/
+[Audio Tour](https://imanmh369.github.io/ImanHussain-qm-audioguide/)
 
 <style>
   img {
