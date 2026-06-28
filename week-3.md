@@ -1,7 +1,7 @@
 # Week 3 : Experiment with museums online collections
 
 ## Sunday  
-I began the week by giving the Week 2 update. Afterward, our supervisor organized a field trip to **Life Hub**, which featured an exhibition on modern medicine and climate change. It was an inspiring experience that connected science, technology, and societal issues in a very engaging way.
+I began the week by preparing and presenting the Week 2 update, which summarized all the progress made so far. Later, our supervisor organized a field trip to Life Hub, an exhibition space that showcased themes of modern medicine and climate change. The visit was both educational and interactive. We engaged with digital projections that asked visitors to choose answers to questions, making the experience feel participatory rather than passive. Several installations explored pressing global topics such as Climate Change, Sustainability, Nutrition & Wellness, and Science, Technology & AI. One particular projection stood out to me: it illustrated how much carbon dioxide is produced by our daily diet, offering a clear and impactful perspective on the environmental footprint of everyday choices. This combination of science, technology, and interactive learning made the exhibition not only informative but also memorable, sparking new curiosity about how innovation can address global challenges.
 
 <div align="center">
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/1958ff98-1a29-4a6f-9b77-3318be7f41bf" />
