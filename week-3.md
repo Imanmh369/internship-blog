@@ -9,11 +9,10 @@ I began the week by preparing and presenting the Week 2 update, which summariz
 
 
 ## Monday  
-The supervisor introduced our Week 3 assignment: experimenting with the museum’s online collections. I explored several museums’ digital archives and datasets, researching how they could be used creatively. Initially, I planned an **image‑based project** focused on extracting dominant colors from artworks. However, the dataset I chose had broken links, so I pivoted to the **Museum of Modern Art (MoMA)** collection, which provided more reliable data.
-
+At the start of the week, our supervisor introduced the Week 3 assignment: experimenting with the museum’s online collections. I began by exploring several museums’ digital archives and datasets, trying to understand how they could be used creatively in a project. My initial idea was to build an image‑based project that extracted dominant colors from artworks. However, the dataset I selected had broken links, which made it unreliable. After some trial and error, I decided to pivot to the Museum of Modern Art (MoMA) collection, which offered a more stable and comprehensive dataset to work with.
 
 ## Tuesday  
-I refined my idea into building an **encyclopedia timeline** that showcases artists’ works across time. Alongside the timeline, I began analyzing **gender representation**—examining which artists dominated in each century and how contributions by different genders evolved over time.
+With a new dataset in hand, I refined my plan. Instead of focusing solely on image analysis, I wanted to create something broader and more meaningful: an encyclopedia timeline that would showcase artists’ works across different periods. This timeline would allow users to see how art evolved over time. Alongside this, I began exploring gender‑based analysis, asking questions such as: Which artists produced the majority of works in each century? How did contributions by different genders change over time? This shift gave the project both a historical and social dimension, making it more engaging and informative.
 
 <div align="center">
 <img width="1547" alt="image" src="https://github.com/user-attachments/assets/ea09f2c3-c0c3-496b-89ed-ce8d34008802" />
@@ -33,8 +32,7 @@ This is image of demographics
 
 
 ## Wednesday  
-I implemented the **Medium Bar**, a feature that visualizes the tools and materials most commonly used by artists. My initial design emphasized dominant tools, but I later adjusted it to also highlight minority tools, giving users a fuller picture. Additionally, I added an **image‑based feature**: when a user selects *Painting* from the classification dropdown and chooses an artist, the app extracts and displays the dominant colors from their artworks.
-
+Midweek, I focused on implementing the Medium Bar, a visualization that highlights the tools and materials most commonly used by artists. At first, I designed it to emphasize dominant tools, but I realized that this approach overlooked the less common, minority tools that also shaped artistic practice. I adjusted the feature so users could see both dominant and minority tools, providing a more complete picture. In addition, I added another interactive element: when a user selects Painting from the classification dropdown and chooses an artist, the app extracts and displays the dominant colors from their artworks. This tied back to my original image‑based idea while integrating it into the broader timeline project.
 
 <div align="center">
 <img width="1846"  alt="image" src="https://github.com/user-attachments/assets/60e42d44-9a0f-4070-859f-6caff121a08b" />
@@ -48,7 +46,7 @@ I implemented the **Medium Bar**, a feature that visualizes the tools and materi
 
 
 ## Thursday  
-I attempted to enhance the Medium Bar by showing **percentages** for each tool’s usage. However, this conflicted with the search bar functionality, so I removed that part to maintain usability. I then moved on to a new idea: a **network graph** that reveals whether an artist was involved in multiple classifications. To improve the design, I experimented with adding a **navigation bar**. Finally, I deployed the project online. GitHub Pages didn’t support Dash (since it’s a Python framework), but I successfully deployed the app using **Render**, a free hosting platform.
+On Thursday, I attempted to enhance the Medium Bar further by showing percentages for each tool’s usage. While this seemed like a useful addition, it conflicted with the search bar functionality and disrupted the user experience, so I decided to remove it. I then moved on to a new feature: a network graph that reveals whether an artist was involved in multiple classifications. This visualization added another layer of insight into the diversity of an artist’s work. To improve the overall design, I experimented with adding a navigation bar for easier user interaction. Finally, I tackled deployment. GitHub Pages didn’t support Dash (since it’s a Python framework), which initially blocked my progress. After researching alternatives, I discovered Render, a free hosting platform, and successfully deployed the project there.
 
 
 <div align="center">
