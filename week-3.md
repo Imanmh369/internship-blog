@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Week 3 : Experiment with museums online collections
 
 ## Sunday  
