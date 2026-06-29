@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # My First Week as an Intern
 
 Starting my internship was both exciting and overwhelming.  
