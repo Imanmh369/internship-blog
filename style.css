@@ -1,6 +1,17 @@
 body {
-  background-color: #FFEED6;  /* light beige */
+  background-color: #FFF4E1; 
   font-family: "Segoe UI", sans-serif;
   margin: 0;
   padding: 0;
+}
+
+a {
+  color: #8B4513; /* warm brown for links */
+  text-decoration: none; /* removes underline */
+  font-weight: 500;
+}
+
+a:hover {
+  color: #A0522D; /* slightly lighter brown on hover */
+  text-decoration: underline;
 }
