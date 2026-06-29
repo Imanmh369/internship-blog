@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # My Second Week as an Intern
 
 On **Sunday**, I met with my supervisor to review my Week 1 work — the multimedia content analysis. We discussed my graphs and visualizations, and I received constructive feedback on refining the labels and references. The session was insightful, showing me how even small adjustments can significantly improve the clarity and impact of data.
