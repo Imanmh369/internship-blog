@@ -1,8 +1,5 @@
-<div style="background-color:#D0C5BE; padding:20px; border-radius:8px;">
-<h1>Internship‑blog</h1>
-  
-<a href="week1.md">Week 1 blog – Data Analysis on Multimedia Content</a><br>
-<a href="week2.md">Week 2 blog – Fork and Tweak another museum Audio guide tour</a><br>
-<a href="week3.md">Week 3 blog – Experiment with museum online collection</a>
-</div>
+## Internship Blog
 
+[Week 1 blog – Data Analysis on Multimedia Content](week-1.md)  
+[Week 2 blog – Fork and Tweak another museum Audio guide tour](week-2.md)  
+[Week 3 blog – Experiment with museum online collection](week-3.md)
