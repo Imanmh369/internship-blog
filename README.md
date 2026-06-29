@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-## Internship Blog
+
 
 [Week 1 blog – Data Analysis on Multimedia Content](week-1.md)  
 [Week 2 blog – Fork and Tweak another museum Audio guide tour](week-2.md)  
