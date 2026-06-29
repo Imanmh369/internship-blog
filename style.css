@@ -15,3 +15,12 @@ a:hover {
   color: #A0522D; /* slightly lighter brown on hover */
   text-decoration: underline;
 }
+
+img {
+  width: 80%;
+  max-width: 700px;
+  border-radius: 8px;
+  display: block;
+  margin: 20px auto;
+}
+
