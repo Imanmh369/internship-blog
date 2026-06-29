@@ -1,4 +1,4 @@
-<div style="background-color:#D6CCC3; padding:20px; border-radius:8px;">
+<div style="background-color:#D0C5BE; padding:20px; border-radius:8px;">
 <h1>Internship‑blog</h1>
   
 <a href="week1.md">Week 1 blog – Data Analysis on Multimedia Content</a><br>
