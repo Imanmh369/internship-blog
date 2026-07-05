@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Week 4 Blog — Data Storytelling and Visualization Progress
 
 ##  Sunday — Refining the Encyclopedia Timeline
@@ -48,6 +50,9 @@ At the same time, I researched examples of **storytelling maps** to inspire my o
 
 These examples helped me see how networks can reveal relationships beyond simple charts. Inspired by them, I began developing a **network graph** where each artist is grouped by department, and users can click to explore the artworks associated with that artist. This idea combines demographic analysis with interactive storytelling, making the data more engaging and meaningful.
 
+This is link to website for inspiration 
+[Moma website](https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?artist=82)
+[Gephi network graph](https://matthewlincoln.net/assets/gephi/saam_network/#)
 ---
 
 ##  Thursday — Refining the Network Map
@@ -60,3 +65,6 @@ To solve this, I experimented with limiting the number of artists visible under 
 
 
 **Reflection:** This exercise reminded me that clarity is just as important as completeness in data visualization. Sometimes showing less information at once makes the story stronger, because the viewer can focus on the relationships that matter most.
+
+## Link to my website 
+[online collection](https://week-3-collection.onrender.com)
