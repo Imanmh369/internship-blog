@@ -62,5 +62,7 @@ Overall, the week reminded me that growth comes from balancing **creative experi
 
 ## Reference 
 [time story](https://www.theartstory.org/top50.htm)
+
 [history graph](https://histography.io/)
+
 [MoMa timeline](https://www.moma.org/interactives/moma_through_time/)
