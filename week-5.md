@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 #  Week 5 — Experiment with Museum API  
 
 ###  Sunday — Refining the Timeline & Preparing the Presentation  
@@ -56,3 +58,9 @@ Overall, the week reminded me that growth comes from balancing **creative experi
 ## The link to my website 
 
 [Timeline Scale](https://imanmh369.github.io/week-5-timeline/)
+
+
+## Reference 
+[time story](https://www.theartstory.org/top50.htm)
+[history graph](https://histography.io/)
+[MoMa timeline](https://www.moma.org/interactives/moma_through_time/)
