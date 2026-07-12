@@ -3,7 +3,10 @@
 #  Week 5 — Experiment with Museum API  
 
 ###  Sunday — Refining the Timeline & Preparing the Presentation  
-On Sunday, I focused on improving the **Collection Timeline**, making it more visually appealing and interactive. I restructured the timeline so that when users land on the page, they immediately see a display of artworks by various artists — creating a more engaging first impression.  
+On Sunday, I focused on improving the **Collection Timeline**, making it more visually appealing and interactive. I restructured the timeline so that when users land on the page, they immediately see a display of artworks by various artists — creating a more engaging first impression. 
+
+<img width="1836" alt="image" src="https://github.com/user-attachments/assets/c875f447-834a-4a2e-8c6e-c8e7cd371c18" />
+
 
 Later in the day, I shifted my attention to preparing for Monday’s presentation. I began outlining what to include, initially planning to cover all my activities from **Week 1 to Week 2**. This preparation helped me organize my progress and think about how best to present my work in a clear, structured way.  
 
