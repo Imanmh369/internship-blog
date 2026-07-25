@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Week 6 – User-Centered Design and Quick Prototyping  
 **Focus:** Experimenting with triggers, sensors, and interfaces  
 
