@@ -11,3 +11,5 @@
 [Week 4 blog- Continuing with Experiment with museum online collection](week-4.md)
 
 [Week 5 blog - Experiment wiht museum API](week-5.md)
+
+[Week 6 – User-Centered Design and Quick Prototyping](week-6.md)
