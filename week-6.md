@@ -27,7 +27,6 @@ We resumed working with the Raspberry Pi and its sensors. Our task was to code t
 We then started coding, but the system was unable to read the card. After troubleshooting, we discovered the issue was incorrect wiring. Once fixed, the setup worked correctly, and we were able to read the card successfully.  
 
 
-<img width="419"  alt="image" src="https://github.com/user-attachments/assets/6c9ba36f-d7f6-462d-b0cf-80507de463a1" />
 
 
 <img width="975" alt="image" src="https://github.com/user-attachments/assets/e0af9d58-153e-4301-aa9a-7779668603ac" />
@@ -39,7 +38,6 @@ We successfully got the system to read the card and tag that came with the Raspb
 
 With the card-reading functionality established, we brainstormed prototypes. We considered an interactive timeline and a dominant color scatter plot. After discussion, we agreed on the scatter plot, with the addition of displaying artist information. To support this, we borrowed the book *Sajjil: A Century of Modern Art* from Mathaf and selected artworks related to themes such as nature, family, and city. We then created a dataset from these selections and photographed the artworks to use in our project.  
 
-<img width="414"  alt="image" src="https://github.com/user-attachments/assets/44838f1a-3f0c-49a7-a0dd-2cf67878e436" />
 
 
 <img width="440"  alt="image" src="https://github.com/user-attachments/assets/f6a4fe9e-dc6c-45ac-88c2-d7a68d21eb07" />
