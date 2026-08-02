@@ -13,3 +13,5 @@
 [Week 5 blog - Experiment wiht museum API](week-5.md)
 
 [Week 6 – User-Centered Design and Quick Prototyping](week-6.md)
+
+[Week 7 - Robots Training](week-7.md)
