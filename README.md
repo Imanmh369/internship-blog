@@ -17,3 +17,5 @@
 [Week 7 - Robots Training](week-7.md)
 
 [Week 8 - Getting started with Mathaf Archives project](week-8.md)
+
+[Week 9 - Getting started with Mathaf Archives project](week-9.md)
