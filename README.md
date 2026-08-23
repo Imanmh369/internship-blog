@@ -19,3 +19,5 @@
 [Week 8 - Getting started with Mathaf Archives project](week-8.md)
 
 [Week 9 - Getting started with Mathaf Archives project](week-9.md)
+
+[Week 10 - Getting started with Mathaf Archives project](week-10.md)
